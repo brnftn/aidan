@@ -1,0 +1,26 @@
+ID do item,Família Olfativa,Nome do item,Tipo,Linha,Preço Unitário,Estoque,Total,Status,Observações
+1001,Frescos,LAVANDA,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+3001,Frutais,LARANJA DOCE,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+2001,Florais,GERÂNIO,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+1002,Frescos,BERGAMOT ITALY,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+1003,Frescos,ALECRIM,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+1004,Frescos,MENTA PIPERITA,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+1005,Frescos,TEA TREE,ÓLEO ESSENCIAL,VIA AROMA,"R$ 35,00",0,"R$ 0,00",Temporariamente indisponível,
+1005,Frescos,TEA TREE,ÓLEO ESSENCIAL,MULTILASER,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,Valor promocional
+1003,Frescos,ALECRIM,ÓLEO ESSENCIAL,MULTILASER,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,Valor promocional
+1006,Frescos,EUCALPITO,ÓLEO ESSENCIAL,MULTILASER,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,Valor promocional
+2002,Florais,FLOR DE CEREJEIRA,ESSÊNCIA,VIA AROMA,"R$ 25,00",1,"R$ 25,00",Em estoque,
+1007,Frescos,EUCALIPTO E HORTELÃ,ESSÊNCIA,VIA AROMA,"R$ 25,00",1,"R$ 25,00",Em estoque,
+5001,Especiarias,CANELA DA ÍNDIA,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+2003,Florais,JASMIM E SÂNDALO,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+3002,Frutais,LIMÃO E FRAMBOESA,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+2004,Florais,PEÔNIA GARDEN,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+6002,Amadeirados,MUSK,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+3003,Frutais,PITANGA,ESSÊNCIA,VIA AROMA,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+1008,Frescos,BAMBOO,ESSÊNCIA,VIA AROMA,"R$ 25,00",1,"R$ 25,00",Em estoque,
+1009,Frescos,CHÁ DE LIMA,ESSÊNCIA,VIA AROMA,"R$ 25,00",1,"R$ 25,00",Em estoque,
+1010,Frescos,MACADÂMIA,ESSÊNCIA,VIA AROMA,"R$ 25,00",1,"R$ 25,00",Em estoque,
+0001,,PINGENTE DE VIDRO DIFUSOR DE AMBIENTE,DIFUSORES,,"R$ 10,00",9,"R$ 90,00",Em estoque,
+0002,,COLAR DIFUSOR COM PEDRA VULCÂNICA,DIFUSORES,,"R$ 20,00",1,"R$ 20,00",Em estoque,
+0003,,DIFUSOR DE VARETA,DIFUSORES,,"R$ 25,00",0,"R$ 0,00",Temporariamente indisponível,
+0004,,AROMATIZADOR ELÉTRICO,DIFUSORES,VIA AROMA,"R$ 40,00",1,"R$ 40,00",Em estoque,Valor promocional
